@@ -2,14 +2,6 @@
 
 Supported Commands:
 
-
-
 cls
 
 echo
-
-In Progress:
-
-
-
-make
