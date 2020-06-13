@@ -8,7 +8,5 @@ all:
 	@echo "Building Commands..."
 	@sudo nasm -f bin -o bin/cls.cmd cmd/cls.asm
 	@sudo nasm -f bin -o bin/echo.cmd cmd/echo.asm
-	@sudo nasm -f bin -o bin/make.cmd cmd/make.asm
-	@sudo cp build.mkf bin/build.mkf
 	@sudo umount bin
 	@echo "Done!"
