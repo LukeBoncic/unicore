@@ -4,4 +4,6 @@ Supported Commands:
 
 cls
 
+dir
+
 echo
